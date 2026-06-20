@@ -176,7 +176,3 @@ main.py      Command-line entry point
 ## Important note
 
 The generated analysis is decision support, not medical, clinical, legal, regulatory, or investment advice. Validate clinical claims, market figures, and compliance recommendations with qualified professionals before acting on them.
-
-## License
-
-No license has been added yet. Add one before distributing or accepting external contributions.
